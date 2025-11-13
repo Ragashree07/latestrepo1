@@ -1,6 +1,6 @@
 class A:
   x=10
   def cus(self):
-    return f"The value of x is {x}
+    return f"The value of x is {x}"
 a=class()
 print(a.cus())
