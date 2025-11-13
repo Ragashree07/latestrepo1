@@ -1,0 +1,6 @@
+class A:
+  x=10
+  def cus(self):
+    print(f"The value of x is {x})
+a=class()
+a.cus()
